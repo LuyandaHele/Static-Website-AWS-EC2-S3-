@@ -11,6 +11,7 @@ Key Implementations & Achievements :
 • Least-privilege security groups
 
 
+<img width="1284" height="1382" alt="image" src="https://github.com/user-attachments/assets/bd78882f-62fe-4aca-a0df-895ea6643642" />
 
 
 
